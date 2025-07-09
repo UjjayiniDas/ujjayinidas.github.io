@@ -3,7 +3,7 @@ title: "Guest Lecturer"
 collection: teaching
 permalink: /teaching/2021-chakda
 venue: "Chakdaha College, Statistics"
-date: 2021
+date: 2021-2022
 location: "Nadia, West Bengal, India"
 ---
 
