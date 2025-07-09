@@ -1,7 +1,7 @@
 ---
 title: "Do People Trust Enough to Respond to Surveys?"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-CHANCE-paper
 excerpt: 'Increasing nonresponse in household surveys in recent years has been a matter of
 concern, especially regarding the quality of information produced from large scale
