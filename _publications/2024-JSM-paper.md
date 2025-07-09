@@ -18,7 +18,7 @@ to health. Overall our research tries to find the root causes of declining surve
 and motivates the discussion around social trust being a potential driver of
 influencing an individual’s propensity to respond to surveys.'
 date: 2024-10-18
-venue: '2024 JSM Proceedings'
+venue: 'JSM Proceedings'
 slidesurl: 'http://ujjayinidas.github.io/files/Das_Forrester_JSM_2024_slides.pdf'
 paperurl: 'http://ujjayinidas.github.io/files/Das_Forrester_Social Trust and its Impact on Survey Response Rates.pdf'
 citation: 'Das, U., & Forrester, A. C. (2024, October 18). Social Trust and its Impact on Survey Response Rates. Joint Statistical Meetings (JSM), Portland, OR. https://doi.org/10.5281/zenodo.13947972.'
