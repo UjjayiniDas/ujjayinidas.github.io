@@ -2,8 +2,8 @@
 title: "Modular Interactive Tutorials in R"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UMD College Park, Innovation in Teaching and Learning Conference"
+permalink: /talks/2023-BSOS-talk
+venue: "University of Maryland, Innovation in Teaching and Learning Conference"
 date: 2023-05-12
 location: "College Park, MD, USA"
 slidesurl: "https://ujjayinidas.github.io/files/CloudClassromTechnologyForDataScience.pdf.pdf"
