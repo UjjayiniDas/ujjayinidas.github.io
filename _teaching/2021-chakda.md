@@ -1,6 +1,7 @@
 ---
 title: "Guest Lecturer"
 collection: teaching
+type: "Full-time"
 permalink: /teaching/2021-chakda
 venue: "Chakdaha College, Statistics"
 start_year: 2021
