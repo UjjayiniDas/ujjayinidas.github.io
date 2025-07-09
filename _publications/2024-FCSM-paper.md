@@ -6,7 +6,7 @@ permalink: /publication/2024-FCSM-paper
 excerpt: ''
 date: 2024
 venue: 'Federal Committee of Statistical Methodology (FCSM) Conference'
-slidesurl: 'http://academicpages.github.io/files/FCSM2024.pdf'
+slidesurl: 'http://ujjayinidas.github.io/files/FCSM2024.pdf'
 citation: 'Das, U., & Mitra, S. Measuring Impact of Artificial Intelligence on US Federal Government.'
 ---
 
