@@ -3,7 +3,7 @@ title: "Measuring Impact of Artificial Intelligence on US Federal Government"
 collection: publications
 category: conferences
 permalink: /publication/2024-FCSM-paper
-excerpt: ''
+excerpt: 'The rapid growth of artificial intelligence has been in the limelight for the past couple of yeras. While public sectors move towards adopting AI in their services, it is of prime interest to understand whether the same shift is happening inside givernment institutions. Especially, with the concern about bias and fairness regarding AI implementation, we seek answers to questions on how and where the US Federal Government agencies are at in terms of adopting AI.'
 date: 2024
 venue: 'Federal Committee of Statistical Methodology (FCSM) Conference'
 slidesurl: 'http://ujjayinidas.github.io/files/FCSM2024.pdf'
