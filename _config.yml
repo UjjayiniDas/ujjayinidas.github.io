@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Welcome to Ujjayini's Homepage"
+title                    : "Ujjayini's Homepage"
 title_separator          : " "
 name                     : &name "Ujjayini Das"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "UjjayiniDas/ujjayinidas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_website.png"
+  avatar           : "images/profile.png"
   name             : "Ujjayini Das"
   pronouns         : "she/her"  
   bio              : "PhD Candidate, Survey and Data Science"
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
