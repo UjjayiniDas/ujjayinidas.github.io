@@ -7,4 +7,4 @@ date: 2021-2022
 location: "Nadia, West Bengal, India"
 ---
 
-I taught statitics to undergraduate students as their minors. I covered topics like probability, regression analysis, design of experiment, time series analysis and statistical quality control. The teaching experience involved in-person and online sessions with the students, as well as preparing exams and grading them.
+I taught statistics to undergraduate students as their minors. I covered topics like probability, regression analysis, design of experiment, time series analysis and statistical quality control. The teaching experience involved in-person and online sessions with the students, as well as preparing exams and grading them.
