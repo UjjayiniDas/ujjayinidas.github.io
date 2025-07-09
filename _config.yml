@@ -22,7 +22,7 @@ repository               : "UjjayiniDas/ujjayinidas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Ujjayini_Das_headshot.jpg"
+  avatar           : "images/profile_website.png"
   name             : "Ujjayini Das"
   pronouns         : "she/her"  
   bio              : "PhD Candidate, Survey and Data Science"
