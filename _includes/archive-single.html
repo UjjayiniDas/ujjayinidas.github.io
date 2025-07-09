@@ -39,7 +39,14 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+  <p>
+    {{ post.type }}, <i>{{ post.venue }}</i>,
+    {% if post.date %}
+      {{ post.date | date: "%Y" }}
+    {% elsif post.start_year %}
+      {{ post.start_year }}{% if post.end_year %}–{{ post.end_year }}{% endif %}
+    {% endif %}
+  </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
